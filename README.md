@@ -4,3 +4,5 @@
 Using TensorFlow and YOLO to indetify objects in TFT
 Will play Mech-Infiltrators FLAWLESSLY
 
+Links to check out
+https://www.arunponnusamy.com/yolo-object-detection-opencv-python.html
